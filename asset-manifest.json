@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/llpos-hardware-sales/static/css/main.9fe40f7c.css",
-    "main.js": "/llpos-hardware-sales/static/js/main.ccd13855.js",
+    "main.js": "/llpos-hardware-sales/static/js/main.d33fe27d.js",
     "static/js/488.0c291ffd.chunk.js": "/llpos-hardware-sales/static/js/488.0c291ffd.chunk.js",
     "index.html": "/llpos-hardware-sales/index.html",
     "main.9fe40f7c.css.map": "/llpos-hardware-sales/static/css/main.9fe40f7c.css.map",
-    "main.ccd13855.js.map": "/llpos-hardware-sales/static/js/main.ccd13855.js.map",
+    "main.d33fe27d.js.map": "/llpos-hardware-sales/static/js/main.d33fe27d.js.map",
     "488.0c291ffd.chunk.js.map": "/llpos-hardware-sales/static/js/488.0c291ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe40f7c.css",
-    "static/js/main.ccd13855.js"
+    "static/js/main.d33fe27d.js"
   ]
 }
